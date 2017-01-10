@@ -1,7 +1,5 @@
-# F(x) = (x^2 + 7x + 10)/(x + 5)
-# The function F
+# Equation is (x^2 + 7x + 10)/(x + 5)
 
-# Nearest to limit, in this case, -5.
 x = float(-4.99)
 step = float(-0.001)
 y = 0
